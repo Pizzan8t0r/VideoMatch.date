@@ -14,5 +14,5 @@ Ive included a link to the html that advertises this application. None of the bu
 https://github.com/Pizzan8t0r/VideoMatch.date/assets/131811220/d98316c1-8c57-4c0f-afbd-3534c16c4b30
 
 #### Link to the html advertising the application with its pricing using bootstrap:
-https://vmatch.vercel.app
+[VideoMatch](https://vmatch.vercel.app)
 
