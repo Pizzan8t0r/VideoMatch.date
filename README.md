@@ -1,5 +1,5 @@
 # VideoMatch.date
-VideoMatch.date is the perfect solution for meeting new and interesting singles nearby. Simply create an account, enter some interesting facts about yourself to start
+VideoMatch.date is the perfect solution for meeting new and interesting singles nearby. Simply create an account, enter some interesting facts about yourself and start
 swiping! It's easy to use, has a fairly straightforward navigation and in minutes you'll match with someone who shares your interests.
 ##
 This application uses React for hybrid /cross-platform mobile development, and is built with typescript. The React native framework provides several third-part UI libraries 
