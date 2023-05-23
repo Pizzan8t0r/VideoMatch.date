@@ -53,7 +53,7 @@ const App = () => (
             />
 
             <Tab.Screen
-              name="VideoMatch"
+              name="Matches"
               component={Matches}
               options={{
                 tabBarIcon: ({ focused }) => (
