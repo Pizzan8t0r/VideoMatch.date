@@ -2,7 +2,7 @@
 VideoMatch.date is the perfect solution for meeting new and interesting singles nearby. Simply create an account, enter some interesting facts about yourself and start
 swiping! It's easy to use, has a fairly straightforward navigation and in minutes you'll match with someone who shares your interests.
 ##
-This application uses React for hybrid /cross-platform mobile development, and is built with typescript. The React native framework provides several third-part UI libraries 
+This application uses React for hybrid /cross-platform mobile development, and is built with typescript. The React native framework provides several third-party UI libraries 
 for a fast, simple, and lightweight development.
 ###
 React document object model, vector icons, react navtive card-stack-swiper, react-native-web, & gesture handler were some of the dependencies used to make this application. It's able to scale on both IOS as well as android devices for a seamless user experience. 
